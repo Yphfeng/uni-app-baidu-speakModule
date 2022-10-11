@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:4:5-15:19
+service#com.cargo.speakmodule.NotifyService
+ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:5:9-14:19
+	android:enabled
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:7:13-35
+	android:label
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:8:13-35
+	android:exported
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:10:13-36
+	android:permission
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:9:13-87
+	android:name
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:6:13-42
+intent-filter#action:name:android.service.notification.NotificationListenerService
+ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:11:13-13:29
+action#android.service.notification.NotificationListenerService
+ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:12:17-99
+	android:name
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml:12:25-96
+uses-sdk
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+		ADDED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuanjin/Documents/cargoChina-app/cargochina-android/androidPro/SpeakModule/src/main/AndroidManifest.xml
